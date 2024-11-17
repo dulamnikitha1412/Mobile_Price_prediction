@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Mobile Price Range Prediction </h1>
 
-![download](https://github.com/user-attachments/assets/8094ec06-c7d0-40b5-812a-1295178848d1)
+   ![download](https://github.com/user-attachments/assets/8094ec06-c7d0-40b5-812a-1295178848d1)
 
 
 
