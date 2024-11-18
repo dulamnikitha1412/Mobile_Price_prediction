@@ -17,8 +17,8 @@
 <h4>Executable Files:</h4>
 <ul>
   
-  <li><b>mobile_price_prediction_Nikitha_KR.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
-  <li><b>final_notebook_mobile_price_prediction_Nikitha_KR.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
+  <li><b>mobile_price_prediction_Nikitha.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
+  <li><b>final_notebook_mobile_price_prediction_Nikitha.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
 </ul>
 
 <h4>Output Files:</h4>
@@ -62,7 +62,7 @@
 <p>The order of execution of the program files is as follows:</p>
 
 
-<p><b>1) final_notebook_mobile_price_prediction_Nikitha_KR.ipynb</b></p>
+<p><b>1) final_notebook_mobile_price_prediction_Nikitha.ipynb</b></p>
 <p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
