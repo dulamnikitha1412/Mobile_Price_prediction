@@ -17,7 +17,7 @@
 <h4>Executable Files:</h4>
 <ul>
   
-  <li><b>mobile_price_prediction_Nikitha.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
+  <li><b>Mobile_price_prediction_Nikitha.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
   <li><b>final_notebook_mobile_price_prediction_Nikitha.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
 </ul>
 
